@@ -1,0 +1,1 @@
+# Quikr-Awards-Manager
